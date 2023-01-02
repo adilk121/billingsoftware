@@ -1,0 +1,48 @@
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+#Gzip
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+</ifmodule>
+#End Gzip
+
+Options +FollowSymLinks
+
+# Disable Directory Browsing
+Options All -Indexes
+
+RewriteEngine on
+
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+#ErrorDocument 400     /error.php
+#ErrorDocument 401     /error.php
+#ErrorDocument 403     /error.php
+#ErrorDocument 404     /error.php
+#ErrorDocument 500     /error.php
+
+RewriteRule ^index\.html$ index.php [L]
+RewriteRule ^about-us\.html$ about-us.php [L]
+RewriteRule ^contact-us\.html$ contact-us.php [L]
+RewriteRule ^enquiry\.html$ enquiry.php [L]
+RewriteRule ^property\.html$ property.php [L]
+RewriteRule ^property-details\.html$ property-details.php [L]
+RewriteRule ^office-by-location\.html$ office-by-location.php [L]
+RewriteRule ^services\.html$ services.php [L]
+RewriteRule ^service-details\.html$ service-details.php [L]
+
+
+
+
+
+
+#RewriteRule ^([^/]*).html$ category.php?cat_name=$1 [L]

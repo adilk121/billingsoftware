@@ -1,0 +1,52 @@
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+#Gzip
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+</ifmodule>
+#End Gzip
+
+Options +FollowSymLinks
+
+# Disable Directory Browsing
+Options All -Indexes
+
+RewriteEngine on
+
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+#ErrorDocument 400     /error.php
+#ErrorDocument 401     /error.php
+#ErrorDocument 403     /error.php
+#ErrorDocument 404     /error.php
+#ErrorDocument 500     /error.php
+
+
+RewriteRule ^thanks\.html$ thanks.php [L]
+RewriteRule ^fail\.html$ fail.php [L]
+RewriteRule ^payment-options\.html$ payment-options.php [L]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

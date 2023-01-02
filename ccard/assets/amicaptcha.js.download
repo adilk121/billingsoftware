@@ -1,0 +1,47 @@
+// JavaScript Document
+// JavaScript Document
+var xmlhttp;
+
+function getxmlhttpobject()
+{
+var xmlhttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlhttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlhttp;
+}
+
+function check_captcha(val)
+{		
+		var url="http://www.tradekeyindia.com/ccard/amicaptcha-support.php?q="+val;		
+		xmlHttp=getxmlhttpobject();
+		xmlHttp.onreadystatechange=function()
+		{
+			
+		if(xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+		{	
+          document.getElementById("captcha_err").innerHTML=xmlHttp.responseText;			
+        }
+		else
+		{
+			  document.getElementById("captcha_err").innerHTML="<img src='http://eline.in/images/load.gif' border='0' height='15' width='20'>";			
+		}
+		}
+		xmlHttp.open("GET",url,true);
+		xmlHttp.send(null);	
+		
+}

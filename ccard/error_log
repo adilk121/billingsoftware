@@ -1,0 +1,4 @@
+[20-Nov-2020 06:36:44 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/webkeyco/public_html/2.0-demo/billing-software/ccard/payment-options.php on line 24
+[20-Nov-2020 06:36:48 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/webkeyco/public_html/2.0-demo/billing-software/ccard/payment-options.php on line 24
+[20-Nov-2020 22:50:53 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/webkeyco/public_html/2.0-demo/billing-software/ccard/thanks.php on line 22
+[10-Dec-2020 22:44:16 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home2/webkeyco/public_html/2.0-demo/billing-software/ccard/payment-options.php on line 25

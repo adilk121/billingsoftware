@@ -1,0 +1,11 @@
+<!-----------------  MY CSS ---------------------->
+p.img-size {
+    font-size: 12px;
+    padding: 9px 0 0 4px;
+    font-weight: 600;
+    color: #2600f2;
+}
+
+.underline{
+text-decoration:underline !important;	
+}

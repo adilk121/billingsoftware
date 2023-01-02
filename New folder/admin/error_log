@@ -1,0 +1,129 @@
+[27-Aug-2019 07:50:55 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[27-Aug-2019 07:51:33 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[28-Aug-2019 01:25:01 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:12:54 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 90
+[30-Aug-2019 00:13:44 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 90
+[30-Aug-2019 00:14:52 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:15:17 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:15:38 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:16:03 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:16:34 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[30-Aug-2019 00:16:54 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 188
+[09-Sep-2019 00:11:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:12:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:14:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:14:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:14:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 00:28:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php:2) in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/dbsmain.inc.php on line 21
+[09-Sep-2019 01:06:57 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:07:18 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:07:58 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:09:13 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:11:29 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:11:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 98
+[09-Sep-2019 01:11:59 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:12:29 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:15:46 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:15:53 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:16:22 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:17:57 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:19:56 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:20:19 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[09-Sep-2019 01:20:37 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 92
+[18-Sep-2019 05:11:05 America/Chicago] PHP Warning:  exif_read_data(1636538c048770.png): File not supported in /home2/webkeyco/public_html/2.0-demo/wear-ind/includes/photoshop.php on line 1355
+[07-Oct-2019 05:17:42 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/wear-ind/admin/addedit-product.php on line 209
+[04-Jan-2020 06:58:22 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 242
+[05-Jan-2020 04:51:15 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 123
+[09-Jan-2020 00:16:24 America/Chicago] PHP Warning:  exif_read_data(c656a3f4c8417a.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 00:18:08 America/Chicago] PHP Warning:  exif_read_data(83cd4c7e345ce7.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 00:18:08 America/Chicago] PHP Warning:  exif_read_data(83cd4c7e345ce7.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:20:28 America/Chicago] PHP Warning:  exif_read_data(32ad38cfadf047.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:20:28 America/Chicago] PHP Warning:  exif_read_data(32ad38cfadf047.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:20:28 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 242
+[09-Jan-2020 01:36:28 America/Chicago] PHP Warning:  exif_read_data(34ef289a9065c4.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:37:04 America/Chicago] PHP Warning:  exif_read_data(80f2706652b127.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 01:37:04 America/Chicago] PHP Warning:  exif_read_data(80f2706652b127.png): File not supported in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/includes/photoshop.php on line 1355
+[09-Jan-2020 02:46:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 632
+[09-Jan-2020 04:53:30 America/Chicago] PHP Fatal error:  Function name must be a string in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/vehicle_model.php on line 63
+[09-Jan-2020 05:28:48 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 433
+[23-Jan-2020 06:14:00 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/importData1.php on line 26
+[24-Jan-2020 22:17:21 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/auto-creation-dynamic/admin/addedit-product.php on line 243
+[28-Jan-2020 23:34:04 America/Chicago] PHP Warning:  exif_read_data(ad34b05f210551.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[28-Jan-2020 23:34:04 America/Chicago] PHP Warning:  exif_read_data(26c0566e428343.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[29-Jan-2020 01:57:40 America/Chicago] PHP Warning:  exif_read_data(347fcbcbb78a8b.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[29-Jan-2020 01:57:40 America/Chicago] PHP Warning:  exif_read_data(347fcbcbb78a8b.jpg): File not supported in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/includes/photoshop.php on line 1355
+[29-Jan-2020 03:58:03 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/sales-hub-dynamic/admin/add-stock.php on line 11
+[29-Jun-2020 00:51:26 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 235
+[29-Jun-2020 00:55:14 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[29-Jun-2020 01:27:48 America/Chicago] PHP Warning:  exif_read_data(beedc70a605fba.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[29-Jun-2020 01:37:49 America/Chicago] PHP Warning:  exif_read_data(da1c11542737be.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[29-Jun-2020 02:15:01 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 235
+[29-Jun-2020 02:33:37 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[29-Jun-2020 02:39:06 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[29-Jun-2020 02:41:14 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[29-Jun-2020 03:46:03 America/Chicago] PHP Warning:  exif_read_data(7fb34a474289ef.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[29-Jun-2020 03:46:03 America/Chicago] PHP Warning:  exif_read_data(7fb34a474289ef.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[29-Jun-2020 03:46:03 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[30-Jun-2020 02:23:48 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 235
+[30-Jun-2020 02:25:23 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 235
+[30-Jun-2020 02:28:06 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 235
+[01-Jul-2020 00:19:10 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[01-Jul-2020 00:19:44 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[01-Jul-2020 00:20:12 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[01-Jul-2020 00:59:09 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[01-Jul-2020 00:59:17 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[01-Jul-2020 00:59:27 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[01-Jul-2020 01:39:01 America/Chicago] PHP Warning:  exif_read_data(5ed8244e8b816d.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[01-Jul-2020 01:39:39 America/Chicago] PHP Warning:  exif_read_data(3d2adbb203c667.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:05:28 America/Chicago] PHP Warning:  exif_read_data(b8018dc25de750.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:05:40 America/Chicago] PHP Warning:  exif_read_data(90edaa02e454a0.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:05:51 America/Chicago] PHP Warning:  exif_read_data(26f543df5a3773.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:07:24 America/Chicago] PHP Warning:  exif_read_data(bf8be36e19c318.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:07:39 America/Chicago] PHP Warning:  exif_read_data(7ca1d1ef1635d7.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:07:43 America/Chicago] PHP Warning:  exif_read_data(cf33444b38275c.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:07:48 America/Chicago] PHP Warning:  exif_read_data(9fabb02bfff89c.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:08:00 America/Chicago] PHP Warning:  exif_read_data(4b84853d054abd.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:08:47 America/Chicago] PHP Warning:  exif_read_data(c660850aa4b04d.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:11:43 America/Chicago] PHP Warning:  exif_read_data(183e860d944bf2.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:13:30 America/Chicago] PHP Warning:  exif_read_data(62fd6db3c68ff6.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:15:31 America/Chicago] PHP Warning:  exif_read_data(d0f20e78fefe6c.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:21:48 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[02-Jul-2020 05:24:50 America/Chicago] PHP Warning:  exif_read_data(202d0774329883.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:24:50 America/Chicago] PHP Warning:  exif_read_data(202d0774329883.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[02-Jul-2020 05:24:50 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[02-Jul-2020 05:26:08 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[02-Jul-2020 05:27:21 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[02-Jul-2020 05:30:08 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[02-Jul-2020 07:20:09 America/Chicago] PHP Warning:  exif_read_data(14524c491e980e.png): File not supported in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[03-Jul-2020 05:33:42 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 05:37:08 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 05:40:24 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 05:43:53 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 05:48:51 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 05:49:29 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 05:51:15 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 05:53:02 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 05:54:19 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 05:55:48 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 05:55:48 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:00:20 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:00:46 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:01:05 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:04:05 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:05:19 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:09:49 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:13:33 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:17:18 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:17:45 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:18:04 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:21:17 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:23:06 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:26:40 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 236
+[03-Jul-2020 06:31:16 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:31:53 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:32:16 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[03-Jul-2020 06:34:00 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[04-Jul-2020 03:13:27 America/Chicago] PHP Warning:  exif_read_data(492a4a04bb875b.jpg): corrupt EXIF header: maximum directory nesting level reached in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[04-Jul-2020 03:13:29 America/Chicago] PHP Warning:  exif_read_data(56a3464209394a.jpg): corrupt EXIF header: maximum directory nesting level reached in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/includes/photoshop.php on line 1355
+[04-Jul-2020 06:17:52 America/Chicago] PHP Warning:  Division by zero in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/addedit-product.php on line 123
+[04-Jul-2020 06:42:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/webkeyco/public_html/2.0-demo/abssolute-reality/admin/manage-services.php on line 62
