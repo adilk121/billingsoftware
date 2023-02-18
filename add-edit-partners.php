@@ -36,7 +36,7 @@ $category_url=ami_crete_url($test_given_by);
 if($_SERVER["REQUEST_METHOD"] == "POST") {
   
 $image =$_FILES["file"]["name"];
-$imgToDel=db_scalar("SELECT partner_image_name FROM tbl_partners WHERE  partner_id='$partner_id'");	
+$imgToDel=db_scalar("SELECT partner_image_name FROM tbl_partners WHERE 1 and partner_id='$partner_id'");	
 
 if($image){
 
