@@ -32,7 +32,7 @@ exit;
 }
 
 
-
+// comments here
 if($faq_id!='') {
 	$result = db_query("select * from tbl_faq where faq_id = '$faq_id'");
 	if ($line_raw = mysqli_fetch_array($result)) {
