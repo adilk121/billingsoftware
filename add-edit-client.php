@@ -4,7 +4,7 @@
 <?php
 $client_id=trim($_REQUEST['id']);
 
-
+// client id
 
 if(is_post_back()){
 //*************** UPDATE EXISTING CATEGORY START ************************//
