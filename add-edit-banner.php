@@ -11,7 +11,7 @@ $delImage=$_REQUEST['delImage'];
 @unlink("../banner_image/$delImage");
 @unlink("../banner_image/thumb/$delImage");
 $isDel=db_query("UPDATE tbl_left_banner SET  banner_image='' WHERE 1 and banner_id = '$categoryID'");	
-
+// Most Probabily
 
 header("location:add-edit-banner.php?id=$categoryID");
 }
